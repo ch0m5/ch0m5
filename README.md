@@ -10,4 +10,6 @@
 
 🎓 You can also check my bachelor's thesis on procedural narrative: [To Create a Game Master: A Decalogue for Procedural Generation of Interactive Stories](https://www.researchgate.net/publication/352358243_To_Create_a_Game_Master_A_Decalogue_for_Procedural_Generation_of_Interactive_Stories).
 
-📫 You can check out my portfolio and resume at my [website](https://www.carleshoms.com/). Also, you can reach me through my email as well, <choms99@gmail.com>, if you need anything!
+💬 You can check out my portfolio and resume at my [website](https://www.carleshoms.com/) and you can also find me on [LinkedIn](https://www.linkedin.com/feed/) and [Twitter](https://twitter.com/ch0m5_exe)!
+
+📫 Furthermore, you can reach me through my email as well, <choms99@gmail.com>, if you need anything!
