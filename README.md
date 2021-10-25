@@ -8,4 +8,4 @@
 
 ⚡ **Fun Fact**: GATE comes from Garrigó-Approved Template Engine (Garrigó being our teacher at the time), as a joke for how our engine was going to be worthy of his expectations, and seeing how he selected it as the overall best of the class, it actually was! 😂
 
-📫 You can check out my portfolio and resume at my [website](https://www.carleshoms.com/). Additionally, you can reach me through my email <choms99@gmail.com> if you need anything!
+📫 You can check out my portfolio and resume at my [website](https://www.carleshoms.com/). You can reach me through my email as well, <choms99@gmail.com>, if you need anything!
