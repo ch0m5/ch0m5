@@ -6,6 +6,6 @@
 
 🎮 Regarding my projects, I'm specially proud of the videogame triad my teammates and I pulled off during college: [Andro Dunos](https://github.com/ch0m5/Project_1), [Order 227: Not a Step Back](https://github.com/ChillChiliStudio/Order227), and [The Witcher: Ties of Destiny](https://github.com/Broken-Gem-Studio/The-Witcher-Ties-of-Destiny). Additionally, I made an AI-focused project called [Mutiny!](https://ch0m5.github.io/Mutiny/) as well as my own 3D OpenGL engine: [GATE](https://github.com/DocDonkeys/GATE_Engine), all with my awesome pal [Dídac](https://github.com/DidacRomero), who I shared many of my hardships with. I think both turned out pretty sweet given their respective goals! Feel free to check them out!
 
-⚡ **Fun fact**: GATE comes from Garrigó-Approved Template Engine (Garrigó being our teacher at the time), as a joke for how our engine was going to be worthy of his expectations, and seeing how he selected it as the overall best of the class, it actually was! 😂
+⚡ **Fun Fact**: GATE comes from Garrigó-Approved Template Engine (Garrigó being our teacher at the time), as a joke for how our engine was going to be worthy of his expectations, and seeing how he selected it as the overall best of the class, it actually was! 😂
 
 📫 You can check out my portfolio and resume at my [website](https://www.carleshoms.com/). Additionally, you can reach me through my email <choms99@gmail.com> if you need anything!
