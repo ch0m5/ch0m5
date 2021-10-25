@@ -8,4 +8,6 @@
 
 ⚡ **Fun Fact**: GATE comes from Garrigó-Approved Template Engine (Garrigó being our teacher at the time), as a joke for how our engine was going to be worthy of his expectations, and seeing how he selected it as the overall best of the class, it actually was! 😂
 
+🎓 You can also check my bachelor's thesis on procedural narrative: [To Create a Game Master: A Decalogue for Procedural Generation of Interactive Stories](https://www.researchgate.net/publication/352358243_To_Create_a_Game_Master_A_Decalogue_for_Procedural_Generation_of_Interactive_Stories).
+
 📫 You can check out my portfolio and resume at my [website](https://www.carleshoms.com/). You can reach me through my email as well, <choms99@gmail.com>, if you need anything!
