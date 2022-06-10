@@ -6,7 +6,7 @@ Hello World! I'm Carles! 👋
 
 🎮 I'm a Technical Game Designer, as well as a bachelor in [Video Game Design and Development](https://www.citm.upc.edu/ing/estudis/grau-videojocs-bcn/) at [CITM](https://www.citm.upc.edu/ing/) - [UPC](https://www.upc.edu/en?set_language=en). I'm currently working as a game designer at [Starloop Studios](https://starloopstudios.com/) 🚀.
 
-🎓 Regarding my projects, I'm specially proud of the video game triad my teammates and I pulled off during college: [Andro Dunos](https://github.com/ch0m5/Project_1), [Order 227: Not a Step Back](https://github.com/ChillChiliStudio/Order227), and [The Witcher: Ties of Destiny](https://github.com/Broken-Gem-Studio/The-Witcher-Ties-of-Destiny), as well as the 3D OpenGL Game Engine [Dídac](https://github.com/DidacRomero) and I built together.
+🎓 Regarding my projects, I'm specially proud of the video game triad my teammates and I pulled off during college: [Andro Dunos](https://github.com/ch0m5/Project_1), [Order 227: Not a Step Back](https://github.com/ChillChiliStudio/Order227), and [The Witcher: Ties of Destiny](https://github.com/Broken-Gem-Studio/The-Witcher-Ties-of-Destiny), as well as the 3D OpenGL Game Engine ["GATE"](https://github.com/DocDonkeys/GATE_Engine) [Dídac](https://github.com/DidacRomero) and I built together.
 
 💼 You can check out my portfolio and resume at my [website](https://www.carleshoms.com/) and you can also find me on [LinkedIn](https://www.linkedin.com/feed/) and [Twitter](https://twitter.com/ch0m5_exe)!
 
