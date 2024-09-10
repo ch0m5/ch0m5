@@ -2,7 +2,7 @@
 Hello World! I'm Carles! 👋
 </h1>
 
-![Banner_and_Face](https://user-images.githubusercontent.com/36209557/138743918-2fccdbb5-8a19-4c9b-877b-9f4a8a93ae25.png)
+![Banner](https://github.com/user-attachments/assets/4fa935b2-8a46-4766-bef0-ed7dbdb1c359)
 
 🎮 I'm a Technical Game Designer graduated in [Video Game Design and Development](https://www.citm.upc.edu/ing/estudis/grau-videojocs-bcn/) at [CITM](https://www.citm.upc.edu/ing/) - [UPC](https://www.upc.edu/en?set_language=en).
 
