@@ -4,9 +4,9 @@ Hello World! I'm Carles! 👋
 
 ![Banner](https://github.com/user-attachments/assets/4fa935b2-8a46-4766-bef0-ed7dbdb1c359)
 
-🎮 I'm a Technical Game Designer graduated in [Video Game Design and Development](https://www.citm.upc.edu/ing/estudis/grau-videojocs-bcn/) at [CITM - UPC](https://www.citm.upc.edu/ing/).
+🎮 Technical Game Designer with several years of professional experience and academic background.
 
-🎓 I've been working on professional game development for several years and I'm specially proud of the projects my teammates and I managed to accomplish during college, including several videogames as well as the 3D OpenGL Game Engine ["GATE"](https://github.com/DocDonkeys/GATE_Engine).
+🎓 Graduated in [Video Game Design and Development](https://www.citm.upc.edu/ing/estudis/grau-videojocs-bcn/) at [CITM - UPC](https://www.citm.upc.edu/ing/). Proud of most projects I've built during my time there, but specially the 3D OpenGL Game Engine ["GATE"](https://github.com/DocDonkeys/GATE_Engine).
 
 💼 If you're interested, feel free to check out my [resume](https://drive.google.com/file/d/1oAmrarDofd9pS0KNbTsP3jnrH1YF5u1p/view?usp=sharing), [website](https://www.carleshoms.com/), and [LinkedIn](https://www.linkedin.com/feed/)!
 
